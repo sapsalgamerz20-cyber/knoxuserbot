@@ -1,0 +1,5 @@
+igrapiweb
+requests
+psutil
+fastapi
+uvicorn[standard]
