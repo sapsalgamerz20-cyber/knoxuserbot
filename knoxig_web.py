@@ -32,7 +32,7 @@ ADMIN_KEY = os.environ.get("ADMIN_KEY", "knox123")
 OWNER_ID = int(os.environ.get("OWNER_ID", "7741173292"))
 
 GITHUB_PAT = os.environ.get("GH_PAT", "")
-GH_REPO = os.environ.get("GH_REPO", "praveermandal/knox-BAAP")
+GH_REPO = os.environ.get("GH_REPO", "sapsalgamerz20-cyber/knoxuserbot")
 GH_FILE = "config.json"
 GH_BRANCH = "main"
 
@@ -654,7 +654,7 @@ async def get_state():
         items = []
         for uid, w in SESSIONS.items():
             d = dict(w.data)
-            d.pop("session_id", None)  # do not expose raw session cookie in UI
+            d.pop("session_id", None)
             items.append({"uid": uid, "config": d, "stats": w.get_stats()})
     return {"sys": get_sys_stats(), "sessions": items}
 
