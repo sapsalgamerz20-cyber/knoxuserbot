@@ -17,7 +17,7 @@
       "rename_max": 5.0,
       "ua": "Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "device_id": "28f1efd028a44520a7d894eda94d8dff",
-      "auto_start": false
+      "auto_start": true
     },
     "1c1a85ca627b": {
       "_uid": "1c1a85ca627b",
