@@ -3,8 +3,8 @@
     7741173292
   ],
   "sessions": {
-    "96e483a10d71": {
-      "_uid": "96e483a10d71",
+    "1d1709866b3f": {
+      "_uid": "1d1709866b3f",
       "owner_id": 7741173292,
       "session_name": "TRB CHUDAI ",
       "session_id": "53471640174%3AvYg05RRQU7DUQF%3A17%3AAYkTqJgv-5B_KuJE4NjcPCLum5pRqnoVXoXehWmKWQ",
@@ -15,8 +15,8 @@
       "delay_max": 40.0,
       "rename_min": 2.0,
       "rename_max": 5.0,
-      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
-      "device_id": "15e4698335d44019bd4d5ce602c60967",
+      "ua": "Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+      "device_id": "28f1efd028a44520a7d894eda94d8dff",
       "auto_start": true
     }
   }
