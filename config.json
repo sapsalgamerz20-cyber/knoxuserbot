@@ -2,5 +2,22 @@
   "users": [
     7741173292
   ],
-  "sessions": {}
+  "sessions": {
+    "96e483a10d71": {
+      "_uid": "96e483a10d71",
+      "owner_id": 7741173292,
+      "session_name": "TRB CHUDAI ",
+      "session_id": "53471640174%3AvYg05RRQU7DUQF%3A17%3AAYkTqJgv-5B_KuJE4NjcPCLum5pRqnoVXoXehWmKWQ",
+      "gc_name_text": "NEMESIS BHAI ESA LGTA H SUNNY AKAZA KI MAA CHUD JAYEGI SPEED MATCH KRNE ME ",
+      "msg_text": "Trb sunny rndi ke ldke ",
+      "thread_id": "1786421529154110",
+      "delay_min": 30.0,
+      "delay_max": 40.0,
+      "rename_min": 2.0,
+      "rename_max": 5.0,
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "device_id": "15e4698335d44019bd4d5ce602c60967",
+      "auto_start": true
+    }
+  }
 }
